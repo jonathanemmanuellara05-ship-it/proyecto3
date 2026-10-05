@@ -368,7 +368,7 @@ body{
 }
 
 .footer__copyright::after{
-    content: " jonathanemmanuellara05@gmail.com.com";
+    content: " jonathanemmanuellara05@gmail.com";
 }
 
 @media screen and (max-width:768px){
